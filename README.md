@@ -21,10 +21,10 @@ This project was developed as part of my frontend development journey, with a fo
 ## Project Links
 
 **GitHub Repository:**
-[Paste GitHub Repository Link Here]
+[]
 
 **Live Website:**
-[Paste Live Website Link Here]
+[ https://vishale2207-creator.github.io/tripsphere/]
 
 ## Project Purpose
 
